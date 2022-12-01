@@ -1,3 +1,5 @@
+USE DMDDPROJECT
+Go
 Create Function CalcAge (@dob date)
  Returns Int
  As
