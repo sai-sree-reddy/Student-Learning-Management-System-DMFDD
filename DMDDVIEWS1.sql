@@ -1,3 +1,5 @@
+USE DMDDPROJECT
+Go
 CREATE VIEW [StudentsEnrolledICourse] AS 
 select s.StudentID,s.StudentName, e.CourseID,e.CoursePerSemesterID,e.EnrollmentDate ,c.CourseName
 from STUDENT s 
