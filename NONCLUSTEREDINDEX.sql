@@ -1,15 +1,17 @@
+USE DMDDPROJECT
+
 CREATE NONCLUSTERED INDEX [IX_NonClusteredIndex_Student_details]
 ON [dbo].[STUDENT] ([StudentID],[StudentName],[StudentEmail]);
 
 GO
 
 CREATE NONCLUSTERED INDEX [IX_NonClusteredIndex_Attendance]
-ON [dbo].[Attdendance] ([ClassNo],[StudentID]);
+ON [dbo].[Attendance] ([ClassNo],[StudentID]);
 
 GO
 
 CREATE NONCLUSTERED INDEX [IX_NonClusteredIndex_Courses]
-ON [dbo].[Courses] ([CourseID],[CourseName]);
+ON [dbo].[Course] ([CourseID],[CourseName]);
 
 GO
 
