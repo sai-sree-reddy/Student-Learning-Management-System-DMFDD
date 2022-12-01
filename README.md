@@ -2,7 +2,7 @@
 DMDD Final Project
 
 
-1.3 stored procedures containing input and output parameters /n
+1.3 stored procedures containing input and output parameters 
 2.3 views (often used for reporting purposes).
 3.1 DML trigger
 4.3 Table-level CHECK Constraints
