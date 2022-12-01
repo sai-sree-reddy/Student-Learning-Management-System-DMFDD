@@ -1,3 +1,5 @@
+USE DMDDPROJECT
+Go
 Create Procedure [dbo].[spGetTestCountByEnrollmentID]
 @EnrollmentID int ,
 @TestCount int Output
