@@ -1,3 +1,5 @@
+USE DMDDPROJECT
+Go
 SELECT * FROM Category
 GO
 GO
