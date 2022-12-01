@@ -1,4 +1,5 @@
 USE DMDDPROJECT
+Go
 
 CREATE NONCLUSTERED INDEX [IX_NonClusteredIndex_Student_details]
 ON [dbo].[STUDENT] ([StudentID],[StudentName],[StudentEmail]);
