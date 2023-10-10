@@ -42,11 +42,7 @@ Three non-clustered indexes have been added to improve the performance of freque
 
 For data visualization and reporting, this project supports integration with Power BI or Tableau. These tools can be used to create insightful dashboards and visual representations of student data, course performance, and other relevant information.
 
-### 9. Graphical User Interface (Optional)
+### 9. Graphical User Interface
 
 A graphical user interface (GUI) for performing CRUD (Create, Read, Update, Delete) operations is an optional feature that can be developed to provide a user-friendly interface for interacting with the database. This can include web-based or desktop applications.
-
-## Usage
-
-To use the SLMS system and interact with the database, refer to the documentation provided in the project's documentation folder. It includes information on setting up the database, using stored procedures, views, and any optional GUI components.
 
